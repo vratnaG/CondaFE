@@ -1,0 +1,23 @@
+.title {
+  margin: 0px 0px 10px 0px;
+}
+
+.container {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.price {
+  margin: 20px 20px 20px 20px;
+}
+.bet-win {
+  display: flex;
+  margin: 5px 5px 5px 5px;
+}
+.win {
+  margin-left: 10px;
+}
+
+.bet {
+  margin-right: 10px;
+}

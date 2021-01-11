@@ -1,0 +1,35 @@
+.all-list {
+  display: flex;
+  flex-direction: row;
+}
+
+.marg {
+  margin: 5px 5px 5px 5px;
+}
+
+.namewidth {
+  width: 40%;
+}
+
+.selectwidth {
+  width: 5%;
+}
+
+.betwidth {
+  width: 10%;
+}
+
+.winwidth {
+  width: 10%;
+}
+
+.losswidth {
+  width: 10%;
+}
+
+.pricewidth {
+  width: 15%;
+}
+.imgwidth {
+  width: 10%;
+}

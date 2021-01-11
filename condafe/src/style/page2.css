@@ -1,0 +1,25 @@
+.end {
+  position: absolute;
+  bottom: 20px;
+  left: 300px;
+}
+
+.play {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 5px 5px 5px 5px;
+}
+
+.oppose {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.result {
+  text-align: center;
+}
+.marg {
+  margin: 10px 5px 10px 5px;
+}
