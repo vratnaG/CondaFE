@@ -19,7 +19,7 @@ function Page1(props) {
         < div className="page1">
             <div className="left-side">
                 <div className="title">selected players</div>
-                {props.players && props.players.map((data, index) => <LeftCard data={data} index={index} status={props.status[index]} />)}
+                {props.players && props.players.map((data, index) => <div className="leftbg"><LeftCard data={data} index={index} status={props.status[index]} /></div>)}
                 <div className="start"><button onClick={() => pageChange()}>start</button></div>
             </div>
             <div className="right-side">

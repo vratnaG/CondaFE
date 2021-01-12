@@ -24,3 +24,8 @@
   left: 50px;
   bottom: 20px;
 }
+
+.leftbg {
+  background-color: aliceblue;
+  border: black;
+}
